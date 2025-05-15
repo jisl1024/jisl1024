@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**jsl1992/jsl1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jisl1024/jisl1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsl1992&show_icons=true&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisl1024&show_icons=true&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
